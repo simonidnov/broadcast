@@ -1,0 +1,30 @@
+{
+  "name": "broadcast",
+  "version": "1.0.0",
+  "description": "broadcast file upload form manager playlist audio video",
+  "main": "index.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonidnov/broadcast.git"
+  },
+  "keywords": [
+    "broadcast",
+    "file",
+    "upload",
+    "audio",
+    "video"
+  ],
+  "author": "Simon Delamarre landscape-viewer.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonidnov/broadcast/issues"
+  },
+  "homepage": "https://github.com/simonidnov/broadcast#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.4"
+  }
+}
